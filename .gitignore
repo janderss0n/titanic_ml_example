@@ -4,3 +4,4 @@ titanic_data
 __pycache__
 *.png
 *.dot
+*.pkl
